@@ -43,7 +43,7 @@
         android:background="@drawable/buttons"
         android:text="Iniciar sesión"
         android:textAllCaps="false"
-        android:textColor="#097bb9"
+        android:textColor="#FFFFFF"
         app:layout_constraintEnd_toEndOf="@+id/etContraseña"
         app:layout_constraintHorizontal_bias="0.494"
         app:layout_constraintStart_toStartOf="@+id/etContraseña"
